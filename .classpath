@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="classes" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" rootpath="JRE_SRCROOT" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="C:/FastGC-master/extlibs/jargs.jar"/>
+	<classpathentry kind="lib" path="C:/FastGC-master/extlibs/commons-io-1.4.jar"/>
+	<classpathentry kind="con" path="C:/FastGC-master/build/classes"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
